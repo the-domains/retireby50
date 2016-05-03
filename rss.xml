@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[retireby50]]></title>
         <description><![CDATA[retireby50]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/retireby50/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 10:51:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 20:06:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/retireby50/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.mrmoneymustache.com/2011/10/22/what-is-hedonic-adaptation-and-how-can-it-turn-you-into-a-sukka/</p>]]></description>
-            <link>undefinedhttpwwwmrmoneymustachecom20111022what-is-hedonic-ad/index.html</link>
+            <title><![CDATA[The Evils of Hedonic Adaption]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/911f2686-1f70-4250-b1e1-c523530cc044.jpg">]]></description>
+            <link>https://thegrid.ai/retireby50/httpwwwmrmoneymustachecom20111022what-is-hedonic-ad/index.html</link>
             <guid isPermaLink="false">147be0bc-7783-496b-9de6-e4c63729ae42</guid>
-            <pubDate>Tue, 03 May 2016 10:51:20 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 20:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
